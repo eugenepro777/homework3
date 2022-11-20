@@ -1,1 +1,2 @@
-# Workshop C# 171122
+# C sharp homework3
+**Tasks 19, 21, 23**
